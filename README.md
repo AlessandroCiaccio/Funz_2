@@ -1,1 +1,1 @@
-# Funz_2
+Definire una funzione che accetti in ingresso una stringa e ne restituisca la lunghezza
